@@ -112,10 +112,12 @@ Homemade light-weight quant framework. Support Sliding windows, hyper-parameter 
 ### Prerequisites
 
 1) Clone repo.
-* git
+
   ```sh
   git clone https://github.com/dr413677671/Quantflow-deep-learning-quant-framework.git
   ```
+
+1) Install dependencies.
 
   ```sh
   pip install <repo-directory>/requirements.txt
@@ -123,7 +125,7 @@ Homemade light-weight quant framework. Support Sliding windows, hyper-parameter 
 
 ## Usage
 
-1) See [LSTM stock price prediction demo](https://github.com/dr413677671/LSTM-stock-price-prediction/)
+**See [LSTM stock price prediction demo](https://github.com/dr413677671/LSTM-stock-price-prediction/)**
 
 <!-- CONTACT -->
 ## Contact
